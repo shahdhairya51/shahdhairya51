@@ -73,6 +73,12 @@ I am Dhairya Shah, currently pursuing my B.Tech degree in Information Technology
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdhairya51&theme=tokyonight" />
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shahdhairya51">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/shahdhairya51?label=Followers&style=social" alt="GitHub Badge"></a>
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 
