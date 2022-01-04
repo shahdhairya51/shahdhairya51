@@ -80,9 +80,9 @@ I am Dhairya Shah, currently pursuing my B.Tech degree in Information Technology
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/shahdhairya51?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## :zap: Recent Activity
+<!-- ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile --> -->
