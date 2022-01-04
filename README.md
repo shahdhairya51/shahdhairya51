@@ -85,4 +85,4 @@ I am Dhairya Shah, currently pursuing my B.Tech degree in Information Technology
 
 <!--END_SECTION:activity-->
 
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile --> -->
+<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile --> 
