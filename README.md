@@ -98,11 +98,11 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=dhairyashah&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=shahdhairya51&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/dhairyashah/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dhairyashah&theme=react-dark&hide_border=true">
+  <a href="https://github.com/shahdhairya51/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shahdhairya51&theme=react-dark&hide_border=true">
   </a>
 </p>
 
