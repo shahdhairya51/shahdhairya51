@@ -11,7 +11,7 @@
 
  - 🎓 **Master's in Computer Science student at The George Washington University with 4.0 GPA ACTIVELY LOOKING FOR INTERNSHIPS**.
 - 🔭 I'm currently working on **Software Development, Data Science and Machine Learning**
-- 🌱 I'm currently learning **Frontend Web Development - React and Backend Development - Node**
+- 🌱 I'm currently learning **Next Gen LLM's & RAG Systems**
 - 👯 I'm looking to collaborate on **Open Source, Full Stack Development, and Machine Learning Projects**
 - 📫 How to reach me **shahdhairya51@gmail.com**
 - 👨‍💻 Software Development Engineer
@@ -92,7 +92,7 @@
 
 <h1 align="center"> 📊 Most Used Languages: </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyashah&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444&title_color=58a6ff&langs_count=8" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhairya51&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444&title_color=58a6ff&langs_count=8" height="200">
 </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>
