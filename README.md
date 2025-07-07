@@ -95,17 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhairya51&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444&title_color=58a6ff&langs_count=8" height="200">
 </p>
 
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
- <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=shahdhairya51&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a href="https://github.com/shahdhairya51/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shahdhairya51&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
 The snake's eating up my contributions🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
